@@ -1,1 +1,1 @@
-FROM larksuite/prometheus-webhook-lark:latest
+FROM prometheus-webhook-lark:latest
