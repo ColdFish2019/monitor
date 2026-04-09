@@ -1,1 +1,1 @@
-FROM  prom/blackbox-exporter:v0.24.0
+FROM  python:3.11-alpine
